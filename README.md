@@ -32,10 +32,28 @@ cd movie-recommendation-system
 ```
 
 ## install dependecies 
+```
 pip install -r requirements.txt
+```
 
 ## Run the app
+```
 streamlit run app.py
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 git clone https://github.com/your-username/movie-recommendation-system.git
