@@ -26,10 +26,9 @@ The model preprocesses movie data, applies **vectorization**, and uses **cosine 
 ## 🚀 Getting Started  
 
 ### 1. Clone the repository  
-bash
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-
+```bash
+git clone https://github.com/your-username/movie-recommendation-system.git && cd movie-recommendation-system
+```
 
 ## install dependecies 
 pip install -r requirements.txt
